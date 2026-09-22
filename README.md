@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A1A1A&height=180&section=header&text=BASIT%20AHANGER&fontSize=46&fontColor=F2F2F2&fontAlignY=42&desc=Design%20×%20Code&descAlignY=62&descSize=18&descColor=A8A8A8&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F2ED,100:750D0F&height=180&section=header&text=BASIT%20AHANGER&fontSize=46&fontColor=F2F2F2&fontAlignY=42&desc=Design%20×%20Code&descAlignY=62&descSize=18&descColor=A8A8A8&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/basitahanger">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=D8D8D8&center=true&vCenter=true&width=560&lines=2nd-year+CS+%40+NIT+Srinagar;Founder+%2F+OVERTONE+-+design+studio;C%2B%2B+%2F+DSA+%2F+Python;Design+meets+code%2C+usually+on+purpose" alt="Typing SVG" />
