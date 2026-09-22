@@ -16,15 +16,6 @@ I split my time between compiling code and kerning letterforms , sometimes in th
 <br>
 
 
-{
-"name": "Basit Ahanger",
-"base": "Srinagar, J&K, India",
-"studying": "B.Tech CSE, NIT Srinagar — 2nd year",
-"writes": ["C++", "C", "Python"],
-"designs": ["brand identity", "logos", "typography", "digital art"],
-"runs": "OVERTONE — a small design & branding studio",
-"right_now": "sharpening OOP + DSA fundamentals in C++"
-}
 
 
 
