@@ -35,7 +35,7 @@ I split my time between compiling code and kerning letterforms ,  sometimes in t
 
 - An AI/ML-based recommendation system for Indian Standards — Hackathon Build
 - Redesigning my Portfolio Site
-- On OVERTONE
+- OVERTONE
 - DSA in C++
 
 <br>
